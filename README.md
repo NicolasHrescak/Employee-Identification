@@ -1,3 +1,3 @@
 # Employee-Identification
 Employee Contract Type Management System 
-Activity to apply polymorphism
+Activity to apply polymorphism in Java
